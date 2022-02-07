@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Kotlin **Udemy**
 
-- 👨‍💻 All of my projects are available at [https://rohitsinghal.vercel.app/](https://rohitsinghal.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rohitsinghal.vercel.app/)
 
 - 📫 How to reach me **rohitsinghal0904@gmail.com**
 
